@@ -6,6 +6,7 @@ I will be building it step by step and tracking all changes with GitHub.
 ## Technologies Used
 - HTML
 - CSS
+- js
 - Bootstrap
 - PHP
 - MySQL
